@@ -41,6 +41,8 @@ proguard/
 .idea/
 # if you remove the above rule, at least ignore the follwing:
 app/app.iml
+
+app/.idea
 .idea/vcs.xml
 # User-specific stuff:
 # .idea/workspace.xml

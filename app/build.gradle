@@ -31,7 +31,6 @@ dependencies {
     compile 'com.android.support:support-v4:19.+'
     compile 'com.google.code.gson:gson:2.2.4'
     compile 'com.actionbarsherlock:actionbarsherlock:4.4.0@aar'
-    compile 'com.android.support:support-v4:19.+'
     compile 'com.squareup.picasso:picasso:2.3.4'
 
     compile files('libs/volley.jar')
