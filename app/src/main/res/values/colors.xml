@@ -1,0 +1,11 @@
+<resources>
+
+    <!-- Backgrounds -->
+    <color name="default_image_background">#ffdddddd</color>
+    <color name="primary_text_dark_gray">#ff545454</color>
+    <color name="app_yellow">#ffffbb33</color>
+    <color name="app_yellow_light">#ffffc85b</color>
+
+    <!-- Color Swipe Refresh Colors -->
+
+</resources>

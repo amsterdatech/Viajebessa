@@ -1,0 +1,25 @@
+<resources>
+
+    <!--
+        Base application theme for API 11+. This theme completely replaces
+        AppBaseTheme from res/values/styles.xml on API 11+ devices.
+    -->
+    <style name="AppBaseTheme" parent="android:Theme.Holo.Light">
+
+        <!-- API 11 theme customizations can go here. -->
+        <item name="android:listChoiceIndicatorMultiple">@drawable/apptheme_btn_check_holo_light</item>
+        <item name="android:buttonStyle">@style/ButtonAppTheme</item>
+        <item name="android:imageButtonStyle">@style/ImageButtonAppTheme</item>
+        <item name="android:listChoiceBackgroundIndicator">@drawable/apptheme_list_selector_holo_light</item>
+        <item name="android:activatedBackgroundIndicator">@drawable/apptheme_activated_background_holo_light</item>
+    </style>
+
+    <style name="ButtonAppTheme" parent="android:Widget.Holo.Light.Button">
+        <item name="android:background">@drawable/apptheme_btn_default_holo_light</item>
+    </style>
+
+    <style name="ImageButtonAppTheme" parent="android:Widget.Holo.Light.ImageButton">
+        <item name="android:background">@drawable/apptheme_btn_default_holo_light</item>
+    </style>
+
+</resources>

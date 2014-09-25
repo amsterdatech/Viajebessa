@@ -1,0 +1,12 @@
+<resources>
+
+    <!--
+    Layout alias to replace the single-pane version of the layout with a
+    two-pane version on Large screens.
+
+    For more on layout aliases, see:
+    http://developer.android.com/training/multiscreen/screensizes.html#TaskUseAliasFilters
+    -->
+    <item name="travel_packages_list_activity" type="layout">@layout/travel_packages_duo_pane</item>
+
+</resources>

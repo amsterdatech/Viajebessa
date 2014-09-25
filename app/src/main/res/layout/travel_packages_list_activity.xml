@@ -1,0 +1,30 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white"
+    android:orientation="vertical" >
+
+    <!--
+         <View
+        android:layout_width="match_parent"
+        android:layout_height="0.5dp"
+        android:background="@android:color/darker_gray" />
+    -->
+
+
+    <!--
+         <FrameLayout
+        android:id="@+id/content_frame"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+    </FrameLayout>
+    -->
+
+    <fragment
+        android:id="@+id/travelpackage_list"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        class="com.bemobi.viajebessa.fragments.TravelPackagesListFragment" />
+
+</LinearLayout>
