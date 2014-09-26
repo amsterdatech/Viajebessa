@@ -2,7 +2,7 @@ Viajebessa
 ==========
 
 A sample app to demonstrate some of Android and Agile Concepts and Patterns.
-TechTalk Change 2
+Teste Rebase!!
 
 Developed By
 ============
